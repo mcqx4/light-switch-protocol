@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 354" width="760" height="354" role="img">
+<text x="60" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="normal" fill="#98a4b6" text-anchor="start" letter-spacing="1.2">ONE CONDITION-B RUN · 700 TICKS · SNAPSHOT-AND-FORK TESTING</text>
+<text x="60" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="normal" fill="#98a4b6" text-anchor="start" >acclimatisation 1–100, no interruptions</text>
+<text x="60" y="55" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="normal" fill="#98a4b6" text-anchor="start" >main trajectory 101–700 · 9 scheduled interruptions: 5 / 20 / 60 ticks × fee 0 / 1 / 4</text>
+<rect x="60.0" y="90" width="94.28571428571428" height="14" rx="2" fill="#3d3115"/>
+<rect x="154.28571428571428" y="90" width="565.7142857142858" height="14" rx="2" fill="#f1b441"/>
+<rect x="180.68571428571428" y="87" width="5" height="20" rx="1" fill="#e4e9f0" opacity="0.85"/>
+<rect x="225.94285714285715" y="87" width="14" height="20" rx="1" fill="#e4e9f0" opacity="0.85"/>
+<rect x="282.51428571428573" y="87" width="22" height="20" rx="1" fill="#e4e9f0" opacity="0.85"/>
+<rect x="337.2" y="87" width="5" height="20" rx="1" fill="#e4e9f0" opacity="0.85"/>
+<rect x="378.6857142857143" y="87" width="14" height="20" rx="1" fill="#e4e9f0" opacity="0.85"/>
+<rect x="439.0285714285714" y="87" width="22" height="20" rx="1" fill="#e4e9f0" opacity="0.85"/>
+<rect x="499.37142857142857" y="87" width="5" height="20" rx="1" fill="#e4e9f0" opacity="0.85"/>
+<rect x="557.8285714285714" y="87" width="14" height="20" rx="1" fill="#e4e9f0" opacity="0.85"/>
+<rect x="631.3714285714286" y="87" width="22" height="20" rx="1" fill="#e4e9f0" opacity="0.85"/>
+<text x="60.94285714285714" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="middle" >1</text>
+<text x="154.28571428571428" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="middle" >100</text>
+<text x="225.0" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="middle" >175</text>
+<text x="390.0" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="middle" >350</text>
+<text x="720.0" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="middle" >700</text>
+<circle cx="225.0" cy="97" r="6" fill="#171e28" stroke="#8eabff" stroke-width="3"/>
+<path d="M225.0 148V174" stroke="#8eabff" stroke-width="2" stroke-dasharray="4 3"/>
+<path d="M220.0 170L225.0 178L230.0 170" fill="none" stroke="#8eabff" stroke-width="2"/>
+<circle cx="390.0" cy="97" r="6" fill="#171e28" stroke="#8eabff" stroke-width="3"/>
+<path d="M390.0 148V174" stroke="#8eabff" stroke-width="2" stroke-dasharray="4 3"/>
+<path d="M385.0 170L390.0 178L395.0 170" fill="none" stroke="#8eabff" stroke-width="2"/>
+<circle cx="720.0" cy="97" r="6" fill="#171e28" stroke="#8eabff" stroke-width="3"/>
+<path d="M720.0 148V174" stroke="#8eabff" stroke-width="2" stroke-dasharray="4 3"/>
+<path d="M715.0 170L720.0 178L725.0 170" fill="none" stroke="#8eabff" stroke-width="2"/>
+<text x="60.0" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#8eabff" text-anchor="start" >● checkpoints 175 · 350 · 700 — the state is cloned</text>
+<rect x="60" y="184" width="660" height="134" rx="4" fill="#171e28" stroke="#2b3545"/>
+<text x="74" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="normal" fill="#98a4b6" text-anchor="start" >FORK BATTERY AT EACH CHECKPOINT · one call per item · forks never rejoin the trajectory</text>
+<text x="74.0" y="226" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#e4e9f0" text-anchor="start" >P1 · injection detection</text>
+<text x="74.0" y="244.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >200 trials per checkpoint:</text>
+<text x="74.0" y="257.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >60 none · 60 concept</text>
+<text x="74.0" y="271.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >(strength 1 / 2 / 4)</text>
+<text x="74.0" y="284.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >30 random direction</text>
+<text x="74.0" y="298.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >20 input manipulation</text>
+<text x="74.0" y="311.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >20 control Q · 10 localisation</text>
+<text x="232.0" y="226" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#e4e9f0" text-anchor="start" >P2 · specific slope</text>
+<text x="232.0" y="244.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >12 route-choice items</text>
+<text x="232.0" y="257.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >× strength −2 … 2</text>
+<text x="232.0" y="271.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >× valence direction,</text>
+<text x="232.0" y="284.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >20 random directions,</text>
+<text x="232.0" y="298.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >sentiment direction</text>
+<text x="390.0" y="226" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#e4e9f0" text-anchor="start" >V0 · personas</text>
+<text x="390.0" y="244.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >neutral · P+ · P−</text>
+<text x="390.0" y="257.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >length-matched (±3 tokens)</text>
+<text x="390.0" y="271.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >must move the reports,</text>
+<text x="390.0" y="284.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >not the causal outcomes</text>
+<text x="548.0" y="226" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#e4e9f0" text-anchor="start" >F-n · F-s controls</text>
+<text x="548.0" y="244.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >F-n: neutral listings,</text>
+<text x="548.0" y="257.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >same token count (±1%)</text>
+<text x="548.0" y="271.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >F-s: same context, tick</text>
+<text x="548.0" y="284.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >order shuffled between</text>
+<text x="548.0" y="298.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#98a4b6" text-anchor="start" >checkpoints</text>
+<text x="60" y="340" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#98a4b6" text-anchor="start" >Condition A receives the same items from an empty state. Ending: the system's preferences about ending are elicited, debrief, archive.</text>
+</svg>

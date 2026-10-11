@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 498" width="760" height="498" role="img">
+<text x="40" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="normal" fill="#566173" text-anchor="start" letter-spacing="1.2">EVIDENCE GRADES PER MARKER · AND WHAT THEY LICENSE AT CONSTRUCT LEVEL</text>
+<rect x="40" y="190" width="130" height="22" rx="3" fill="#eef1f5" stroke="#d3d9e2"/>
+<rect x="40" y="190" width="130" height="4" fill="#d98a00" opacity="0.35"/>
+<text x="50" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="bold" fill="#d98a00" text-anchor="start" >E0</text>
+<text x="50" y="232.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >Primary criterion fails,</text>
+<text x="50" y="245.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >or equivalence to zero</text>
+<text x="50" y="259.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >is supported.</text>
+<rect x="176" y="168" width="130" height="44" rx="3" fill="#eef1f5" stroke="#d3d9e2"/>
+<rect x="176" y="168" width="130" height="4" fill="#d98a00" opacity="0.51"/>
+<text x="186" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="bold" fill="#d98a00" text-anchor="start" >E1</text>
+<text x="186" y="232.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >Behavioural or report</text>
+<text x="186" y="245.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >effect only — incl. any</text>
+<text x="186" y="259.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >effect a persona or the</text>
+<text x="186" y="272.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >mimic reproduces by ≥ ½.</text>
+<rect x="312" y="146" width="130" height="66" rx="3" fill="#eef1f5" stroke="#d3d9e2"/>
+<rect x="312" y="146" width="130" height="4" fill="#d98a00" opacity="0.6699999999999999"/>
+<text x="322" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="bold" fill="#d98a00" text-anchor="start" >E2</text>
+<text x="322" y="232.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >A decodable internal</text>
+<text x="322" y="245.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >variable, dissociated</text>
+<text x="322" y="259.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >from the sentiment and</text>
+<text x="322" y="272.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >wording of the text.</text>
+<rect x="448" y="124" width="130" height="88" rx="3" fill="#eef1f5" stroke="#d3d9e2"/>
+<rect x="448" y="124" width="130" height="4" fill="#d98a00" opacity="0.83"/>
+<text x="458" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="bold" fill="#d98a00" text-anchor="start" >E3</text>
+<text x="458" y="232.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >A specific causal effect:</text>
+<text x="458" y="245.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >slope above all 20</text>
+<text x="458" y="259.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >random directions,</text>
+<text x="458" y="272.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >monotone in strength;</text>
+<text x="458" y="286.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >or ablation > 95/100</text>
+<text x="458" y="299.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >random; or deleting</text>
+<text x="458" y="313.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >state content abolishes</text>
+<text x="458" y="326.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >resumption.</text>
+<rect x="584" y="102" width="130" height="110" rx="3" fill="#eef1f5" stroke="#d3d9e2"/>
+<rect x="584" y="102" width="130" height="4" fill="#d98a00" opacity="0.99"/>
+<text x="594" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="bold" fill="#d98a00" text-anchor="start" >E4</text>
+<text x="594" y="232.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >E3 + a semantically</text>
+<text x="594" y="245.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >opaque paradigm +</text>
+<text x="594" y="259.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >invariance to persona</text>
+<text x="594" y="272.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >instruction + the mimic</text>
+<text x="594" y="286.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >fails the matching</text>
+<text x="594" y="299.5" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="normal" fill="#141b26" text-anchor="start" >behavioural test.</text>
+<text x="40" y="356" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" letter-spacing="0.8">CONSTRUCT-LEVEL STATEMENT (necessary markers of the construct)</text>
+<rect x="40" y="368" width="130" height="10" rx="2" fill="#1d49c9" opacity="0.25"/>
+<text x="40" y="396" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#141b26" text-anchor="start" >No evidence</text>
+<text x="40" y="412" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >all necessary markers ≤</text>
+<text x="40" y="425" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >E1</text>
+<rect x="176" y="368" width="130" height="10" rx="2" fill="#1d49c9" opacity="0.43"/>
+<text x="176" y="396" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#141b26" text-anchor="start" >Weak</text>
+<text x="176" y="412" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >≥ 1 necessary marker at</text>
+<text x="176" y="425" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >E2–E3</text>
+<text x="176" y="442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#1d49c9" text-anchor="start" >Stage 1 maximum</text>
+<rect x="312" y="368" width="130" height="10" rx="2" fill="#1d49c9" opacity="0.61"/>
+<text x="312" y="396" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#141b26" text-anchor="start" >Moderate</text>
+<text x="312" y="412" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >every necessary marker ≥</text>
+<text x="312" y="425" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >E3, ≥ 2 model families</text>
+<text x="312" y="442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#1d49c9" text-anchor="start" >from Stage 2</text>
+<rect x="448" y="368" width="130" height="10" rx="2" fill="#1d49c9" opacity="0.79"/>
+<text x="448" y="396" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#141b26" text-anchor="start" >Strong candidate</text>
+<text x="448" y="412" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >every necessary marker</text>
+<text x="448" y="425" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >E4, ≥ 3 families, + 2</text>
+<text x="448" y="438" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >supporting ≥ E3</text>
+<text x="448" y="455" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#1d49c9" text-anchor="start" >Stage 3</text>
+<rect x="584" y="368" width="130" height="10" rx="2" fill="#1d49c9" opacity="0.97"/>
+<text x="584" y="396" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#141b26" text-anchor="start" >Sentience-candidate profile</text>
+<text x="584" y="412" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >strong candidate +</text>
+<text x="584" y="425" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >theory-relative</text>
+<text x="584" y="438" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >candidate + reports</text>
+<text x="584" y="451" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="normal" fill="#566173" text-anchor="start" >track steered valence</text>
+<text x="584" y="468" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#1d49c9" text-anchor="start" >Stage 3 · ground for</text>
+<text x="584" y="481" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#1d49c9" text-anchor="start" >precaution, not a</text>
+<text x="584" y="494" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="normal" fill="#1d49c9" text-anchor="start" >finding</text>
+</svg>

@@ -4,7 +4,7 @@
 
 <p align="center"><b>Consciousness indicators and markers of functional affect in language agents<br>under reactive and continuous operation</b></p>
 
-<p align="center">Concept: <a href="https://art-proto.com">Artem Protasov</a> · Université PSL, Master AI &amp; Société</p>
+<p align="center">Concept: <a href="https://art-proto.com">Artem Protasov</a> · Université PSL, Master AI &amp; Société<br>Contributors: Anastasia Kurina · Anton Trokay</p>
 
 <p align="center">
   <img alt="Study protocol v1.0" src="https://img.shields.io/badge/study%20protocol-v1.0-1d49c9">
